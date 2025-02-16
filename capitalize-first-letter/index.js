@@ -3,7 +3,7 @@ const capitalizeFirstLetter = (val) => {
   return `${val.charAt(0).toUpperCase()}${val.slice(1)}`
 }
 
-// const stringTest = 'trungquandev'
+// const stringTest = 'tanvu'
 // const capString = capitalizeFirstLetter(stringTest)
 
 // console.log('stringTest:', stringTest)
